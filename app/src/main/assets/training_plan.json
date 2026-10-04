@@ -1,0 +1,2252 @@
+[
+  {
+    "day": 1,
+    "week": 1,
+    "dow": 1,
+    "phase": "基础恢复",
+    "totalMinutes": 10,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "week": 1,
+    "dow": 2,
+    "phase": "基础恢复",
+    "totalMinutes": 14,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 4,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 6次"
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "week": 1,
+    "dow": 3,
+    "phase": "基础恢复",
+    "totalMinutes": 10,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "week": 1,
+    "dow": 4,
+    "phase": "基础恢复",
+    "totalMinutes": 14,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 4,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 6次"
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "week": 1,
+    "dow": 5,
+    "phase": "基础恢复",
+    "totalMinutes": 10,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "week": 1,
+    "dow": 6,
+    "phase": "基础恢复",
+    "totalMinutes": 14,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 4,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 6次"
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "week": 1,
+    "dow": 7,
+    "phase": "基础恢复",
+    "totalMinutes": 15,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "review",
+        "title": "每周复盘",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "week": 2,
+    "dow": 1,
+    "phase": "基础恢复",
+    "totalMinutes": 14,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "week": 2,
+    "dow": 2,
+    "phase": "基础恢复",
+    "totalMinutes": 13,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "awareness",
+        "title": "兴奋度识别",
+        "minutes": 4,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "week": 2,
+    "dow": 3,
+    "phase": "基础恢复",
+    "totalMinutes": 14,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "week": 2,
+    "dow": 4,
+    "phase": "基础恢复",
+    "totalMinutes": 13,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "awareness",
+        "title": "兴奋度识别",
+        "minutes": 4,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "week": 2,
+    "dow": 5,
+    "phase": "基础恢复",
+    "totalMinutes": 14,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "week": 2,
+    "dow": 6,
+    "phase": "基础恢复",
+    "totalMinutes": 13,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "awareness",
+        "title": "兴奋度识别",
+        "minutes": 4,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "week": 2,
+    "dow": 7,
+    "phase": "基础恢复",
+    "totalMinutes": 14,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 5,
+        "detail": ""
+      },
+      {
+        "id": "review",
+        "title": "每周复盘",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 15,
+    "week": 3,
+    "dow": 1,
+    "phase": "控制建立",
+    "totalMinutes": 13,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 16,
+    "week": 3,
+    "dow": 2,
+    "phase": "控制建立",
+    "totalMinutes": 16,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 8,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 17,
+    "week": 3,
+    "dow": 3,
+    "phase": "控制建立",
+    "totalMinutes": 13,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "week": 3,
+    "dow": 4,
+    "phase": "控制建立",
+    "totalMinutes": 16,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 8,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 19,
+    "week": 3,
+    "dow": 5,
+    "phase": "控制建立",
+    "totalMinutes": 13,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 20,
+    "week": 3,
+    "dow": 6,
+    "phase": "控制建立",
+    "totalMinutes": 16,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 8,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 21,
+    "week": 3,
+    "dow": 7,
+    "phase": "控制建立",
+    "totalMinutes": 13,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "review",
+        "title": "每周复盘",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 22,
+    "week": 4,
+    "dow": 1,
+    "phase": "控制建立",
+    "totalMinutes": 13,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 23,
+    "week": 4,
+    "dow": 2,
+    "phase": "控制建立",
+    "totalMinutes": 18,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 10,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 24,
+    "week": 4,
+    "dow": 3,
+    "phase": "控制建立",
+    "totalMinutes": 13,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 25,
+    "week": 4,
+    "dow": 4,
+    "phase": "控制建立",
+    "totalMinutes": 18,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 10,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 26,
+    "week": 4,
+    "dow": 5,
+    "phase": "控制建立",
+    "totalMinutes": 13,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 27,
+    "week": 4,
+    "dow": 6,
+    "phase": "控制建立",
+    "totalMinutes": 18,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 10,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 28,
+    "week": 4,
+    "dow": 7,
+    "phase": "控制建立",
+    "totalMinutes": 13,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "review",
+        "title": "每周复盘",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 29,
+    "week": 5,
+    "dow": 1,
+    "phase": "耐受重建",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 10次"
+      }
+    ]
+  },
+  {
+    "day": 30,
+    "week": 5,
+    "dow": 2,
+    "phase": "耐受重建",
+    "totalMinutes": 19,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 12,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 31,
+    "week": 5,
+    "dow": 3,
+    "phase": "耐受重建",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 10次"
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "week": 5,
+    "dow": 4,
+    "phase": "耐受重建",
+    "totalMinutes": 19,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 12,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "week": 5,
+    "dow": 5,
+    "phase": "耐受重建",
+    "totalMinutes": 17,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "rhythm",
+        "title": "刺激节奏重塑",
+        "minutes": 10,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "week": 5,
+    "dow": 6,
+    "phase": "耐受重建",
+    "totalMinutes": 19,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 12,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "week": 5,
+    "dow": 7,
+    "phase": "耐受重建",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "review",
+        "title": "每周复盘",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 36,
+    "week": 6,
+    "dow": 1,
+    "phase": "耐受重建",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 10次"
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "week": 6,
+    "dow": 2,
+    "phase": "耐受重建",
+    "totalMinutes": 19,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 12,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "week": 6,
+    "dow": 3,
+    "phase": "耐受重建",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "3秒轻收缩 + 6秒完全放松 × 10次"
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "week": 6,
+    "dow": 4,
+    "phase": "耐受重建",
+    "totalMinutes": 19,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 12,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "week": 6,
+    "dow": 5,
+    "phase": "耐受重建",
+    "totalMinutes": 17,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "rhythm",
+        "title": "刺激节奏重塑",
+        "minutes": 10,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 41,
+    "week": 6,
+    "dow": 6,
+    "phase": "耐受重建",
+    "totalMinutes": 19,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 12,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "week": 6,
+    "dow": 7,
+    "phase": "耐受重建",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "review",
+        "title": "每周复盘",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 43,
+    "week": 7,
+    "dow": 1,
+    "phase": "耐受重建",
+    "totalMinutes": 17,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "rhythm",
+        "title": "刺激节奏重塑",
+        "minutes": 10,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 44,
+    "week": 7,
+    "dow": 2,
+    "phase": "耐受重建",
+    "totalMinutes": 22,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 15,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 45,
+    "week": 7,
+    "dow": 3,
+    "phase": "耐受重建",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "4秒轻收缩 + 8秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 46,
+    "week": 7,
+    "dow": 4,
+    "phase": "耐受重建",
+    "totalMinutes": 22,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 15,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 47,
+    "week": 7,
+    "dow": 5,
+    "phase": "耐受重建",
+    "totalMinutes": 17,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "rhythm",
+        "title": "刺激节奏重塑",
+        "minutes": 10,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 48,
+    "week": 7,
+    "dow": 6,
+    "phase": "耐受重建",
+    "totalMinutes": 22,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 15,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 49,
+    "week": 7,
+    "dow": 7,
+    "phase": "耐受重建",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "review",
+        "title": "每周复盘",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 50,
+    "week": 8,
+    "dow": 1,
+    "phase": "耐受重建",
+    "totalMinutes": 17,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "rhythm",
+        "title": "刺激节奏重塑",
+        "minutes": 10,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 51,
+    "week": 8,
+    "dow": 2,
+    "phase": "耐受重建",
+    "totalMinutes": 22,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 15,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "week": 8,
+    "dow": 3,
+    "phase": "耐受重建",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "4秒轻收缩 + 8秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "week": 8,
+    "dow": 4,
+    "phase": "耐受重建",
+    "totalMinutes": 22,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 15,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "week": 8,
+    "dow": 5,
+    "phase": "耐受重建",
+    "totalMinutes": 17,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "rhythm",
+        "title": "刺激节奏重塑",
+        "minutes": 10,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "week": 8,
+    "dow": 6,
+    "phase": "耐受重建",
+    "totalMinutes": 22,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 15,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "week": 8,
+    "dow": 7,
+    "phase": "耐受重建",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "review",
+        "title": "每周复盘",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "week": 9,
+    "dow": 1,
+    "phase": "巩固迁移",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "4秒轻收缩 + 8秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "week": 9,
+    "dow": 2,
+    "phase": "巩固迁移",
+    "totalMinutes": 22,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "integrated",
+        "title": "综合控制训练",
+        "minutes": 15,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "week": 9,
+    "dow": 3,
+    "phase": "巩固迁移",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "4秒轻收缩 + 8秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "week": 9,
+    "dow": 4,
+    "phase": "巩固迁移",
+    "totalMinutes": 22,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 15,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 61,
+    "week": 9,
+    "dow": 5,
+    "phase": "巩固迁移",
+    "totalMinutes": 22,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "integrated",
+        "title": "综合控制训练",
+        "minutes": 15,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "week": 9,
+    "dow": 6,
+    "phase": "巩固迁移",
+    "totalMinutes": 10,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "recovery",
+        "title": "轻恢复日",
+        "minutes": 3,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "week": 9,
+    "dow": 7,
+    "phase": "巩固迁移",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "review",
+        "title": "每周复盘",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 64,
+    "week": 10,
+    "dow": 1,
+    "phase": "巩固迁移",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "4秒轻收缩 + 8秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 65,
+    "week": 10,
+    "dow": 2,
+    "phase": "巩固迁移",
+    "totalMinutes": 25,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "integrated",
+        "title": "综合控制训练",
+        "minutes": 18,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 66,
+    "week": 10,
+    "dow": 3,
+    "phase": "巩固迁移",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "4秒轻收缩 + 8秒完全放松 × 8次"
+      }
+    ]
+  },
+  {
+    "day": 67,
+    "week": 10,
+    "dow": 4,
+    "phase": "巩固迁移",
+    "totalMinutes": 22,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 15,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 68,
+    "week": 10,
+    "dow": 5,
+    "phase": "巩固迁移",
+    "totalMinutes": 25,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "integrated",
+        "title": "综合控制训练",
+        "minutes": 18,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 69,
+    "week": 10,
+    "dow": 6,
+    "phase": "巩固迁移",
+    "totalMinutes": 10,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "recovery",
+        "title": "轻恢复日",
+        "minutes": 3,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 70,
+    "week": 10,
+    "dow": 7,
+    "phase": "巩固迁移",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "review",
+        "title": "每周复盘",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 71,
+    "week": 11,
+    "dow": 1,
+    "phase": "巩固迁移",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "4秒轻收缩 + 8秒完全放松 × 6次"
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "week": 11,
+    "dow": 2,
+    "phase": "巩固迁移",
+    "totalMinutes": 25,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "integrated",
+        "title": "综合控制训练",
+        "minutes": 18,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "week": 11,
+    "dow": 3,
+    "phase": "巩固迁移",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "4秒轻收缩 + 8秒完全放松 × 6次"
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "week": 11,
+    "dow": 4,
+    "phase": "巩固迁移",
+    "totalMinutes": 22,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 15,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "week": 11,
+    "dow": 5,
+    "phase": "巩固迁移",
+    "totalMinutes": 25,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "integrated",
+        "title": "综合控制训练",
+        "minutes": 18,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "week": 11,
+    "dow": 6,
+    "phase": "巩固迁移",
+    "totalMinutes": 10,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "recovery",
+        "title": "轻恢复日",
+        "minutes": 3,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "week": 11,
+    "dow": 7,
+    "phase": "巩固迁移",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "review",
+        "title": "每周复盘",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "week": 12,
+    "dow": 1,
+    "phase": "巩固迁移",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "4秒轻收缩 + 8秒完全放松 × 6次"
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "week": 12,
+    "dow": 2,
+    "phase": "巩固迁移",
+    "totalMinutes": 27,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "integrated",
+        "title": "综合控制训练",
+        "minutes": 20,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "week": 12,
+    "dow": 3,
+    "phase": "巩固迁移",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "pelvic",
+        "title": "盆底协调训练",
+        "minutes": 5,
+        "detail": "4秒轻收缩 + 8秒完全放松 × 6次"
+      }
+    ]
+  },
+  {
+    "day": 81,
+    "week": 12,
+    "dow": 4,
+    "phase": "巩固迁移",
+    "totalMinutes": 22,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "stop",
+        "title": "停—启控制训练",
+        "minutes": 15,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "week": 12,
+    "dow": 5,
+    "phase": "巩固迁移",
+    "totalMinutes": 27,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "integrated",
+        "title": "综合控制训练",
+        "minutes": 20,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "week": 12,
+    "dow": 6,
+    "phase": "巩固迁移",
+    "totalMinutes": 10,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "recovery",
+        "title": "轻恢复日",
+        "minutes": 3,
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "week": 12,
+    "dow": 7,
+    "phase": "巩固迁移",
+    "totalMinutes": 12,
+    "tasks": [
+      {
+        "id": "breath",
+        "title": "腹式呼吸",
+        "minutes": 3,
+        "detail": ""
+      },
+      {
+        "id": "relax",
+        "title": "盆底放松",
+        "minutes": 4,
+        "detail": ""
+      },
+      {
+        "id": "review",
+        "title": "每周复盘",
+        "minutes": 5,
+        "detail": ""
+      }
+    ]
+  }
+]
